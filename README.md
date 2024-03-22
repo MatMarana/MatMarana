@@ -9,7 +9,7 @@
 
 <div align="center" display: flex>
   <a href="https://github.com/MatMarana/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatMarana&layout=donut&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatMarana&layout=donut&theme=dracula&locale=pt-br">
   </a>
 </div>
 
