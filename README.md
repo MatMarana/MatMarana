@@ -22,6 +22,8 @@
   <img align="center" alt="MatMarana/Java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
   <br>
 </div>
+<br>    
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ##
 <div display: flex>
