@@ -31,7 +31,8 @@
   <a href="https://www.instagram.com/marana.sb/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href=""><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
-<br>
 
 
-![snake gif](https://github.com/MatMarana/MatMarana/blob/output/github-contribution-grid-snake.gif)
+##
+
+![snake gif](https://github.com/MatMarana/MatMarana/blob/output/github-contribution-grid-snake.svg)
