@@ -2,7 +2,8 @@
 
 - 🎓 Estudante da [FEI](https://portal.fei.edu.br)
 - 💻 Cursando Ciência Da Computação
-- ⚙️ Desenvolvedor Back-End
+- ⚙️ Desenvolvedor de Software
+- 📊 Estudando sobre Análise de Dados
 
 <br>
 
