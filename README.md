@@ -28,7 +28,7 @@
 ---
 
 ### Meus Repositórios
-> Projetos que talvez seja de seu interesse. Passa lá pra conferir 😉
+> Projetos que talvez sejam de seu interesse. Passa lá pra conferir 😉
 
 |  |  |
 |---|---|
