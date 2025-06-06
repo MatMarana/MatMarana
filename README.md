@@ -1,3 +1,5 @@
+![GIF_Mario_2](https://github.com/MatMarana/MatMarana/blob/main/assets/GIFMario2.gif)
+
 ## Prazer em te conhecer, me chamo Mateus
 > Sou desenvolvedor de software com foco em Back-End, dedicado a unir tecnologia e inovação para criar soluções que impactem positivamente o mercado, apaixonado por programação desde a infância. Formado como técnico em Eletrônica pela Etec Julio de Mesquita, onde conheci o Arduino e desde então ecolhi seguir na área de tecnologia. Graças a essa formação possuo conhecimento sólido em software e hardware
 ### Minha carreira
@@ -19,9 +21,10 @@
   <br>
   <img align="center" alt="MatMarana/Python" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="MatMarana/Java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="MatMarana/Java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="MatMarana/Java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="MatMarana/Java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="MatMarana/C++" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="MatMarana/Docker" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />    
+  <img align="center" alt="MatMarana/AWS" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="MatMarana/Git" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
   <br>
 </div>   
 
