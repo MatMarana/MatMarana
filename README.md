@@ -1,4 +1,4 @@
-![GIF_Mario_2](https://github.com/MatMarana/MatMarana/blob/main/assets/GIFMario2.gif)
+<!-- ![GIF_Mario_2](https://github.com/MatMarana/MatMarana/blob/main/assets/GIFMario2.gif) -->
 
 ## Prazer em te conhecer, me chamo Mateus
 > Sou desenvolvedor de software com foco em Back-End, dedicado a unir tecnologia e inovação para criar soluções que impactem positivamente o mercado, apaixonado por programação desde a infância. Formado como técnico em Eletrônica pela Etec Julio de Mesquita, onde conheci o Arduino e desde então escolhi seguir na área de tecnologia. Graças a essa formação possuo conhecimento sólido em software e hardware.
@@ -50,4 +50,4 @@
 
 ---
 
-![snake gif](https://github.com/MatMarana/MatMarana/blob/output/github-contribution-grid-snake.svg)
+<!--- ![snake gif](https://github.com/MatMarana/MatMarana/blob/output/github-contribution-grid-snake.gif?) -->
