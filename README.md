@@ -12,8 +12,8 @@
 <br>
 
 <div align="center">
-    <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatMarana&show_icons=true&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,1e1e1f,2b2c30,4e0055,73007e,73007e&locale=pt-br&hide_border=true">
-    <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatMarana&&layout=compact&hide_border=true&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,73007e,73007e,4e0055,1e1e1f,2b2c30&locale=pt-br">
+    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=MatMarana&show_icons=true&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,1e1e1f,2b2c30,4e0055,73007e,73007e&locale=pt-br&hide_border=true">
+    <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatMarana&&layout=compact&hide_border=true&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,73007e,73007e,4e0055,1e1e1f,2b2c30&locale=pt-br">
 </div>
 
 <br>
@@ -34,7 +34,7 @@
 ### Meus Repositórios
 > Projetos que talvez sejam de seu interesse. Passa lá pra conferir 😉
 
-|  |  |
+| | |
 |---|---|
 | [💰 Exchange Cripto Moedas em Java](https://github.com/MatMarana/ExchangeCriptoMoedas-Java)<br>Banco de criptomoedas em java. | [🏦 Projeto Banco em Python](https://github.com/OliveiraGusta/Econome_CRM)<br>Sistema bancário simples feito em Python. |
 | [📝 Lista de Tarefas em C](https://github.com/MatMarana/Lista-de-Tarefas-Em-C)<br>Gerenciador de tarefas com operações básicas de lista. | [📉 Projeto de Banco de Dados](https://github.com/benevenutoIsa/BD_Universidade)<br>Criação de um banco de dados de uma universidade. |
